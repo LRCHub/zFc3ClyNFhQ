@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "シンデレラ",
+  "base_artist": "Cidergirl",
+  "createdAt": "2025-12-07T07:18:16.616396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンデレラ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_シンデレラ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンデレラ feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_シンデレラ_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢はひそかに (シンデレラ)",
+      "artist": "Dominó",
+      "has_synced": false,
+      "path": "select/03_夢はひそかに_(シンデレラ)_Dominó.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビビディ・バビディ・ブー(シンデレラ)",
+      "artist": "Dominó",
+      "has_synced": false,
+      "path": "select/04_ビビディ・バビディ・ブー(シンデレラ)_Dominó.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シンデレラ・ハネムーン",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": false,
+      "path": "select/05_シンデレラ・ハネムーン_Hiromi_Iwasaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "デスクトップ・シンデレラ",
+      "artist": "Hachioji P feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/06_デスクトップ・シンデレラ_Hachioji_P_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "デスクトップ・シンデレラ",
+      "artist": "Hachioji P/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_デスクトップ・シンデレラ_Hachioji_P_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シンデレラ サマー",
+      "artist": "石川優子",
+      "has_synced": true,
+      "path": "select/08_シンデレラ_サマー_石川優子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "不思議 Tokyo シンデレラ",
+      "artist": "セイントフォー",
+      "has_synced": true,
+      "path": "select/09_不思議_Tokyo_シンデレラ_セイントフォー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シンデレラ・エクスプレス",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/10_シンデレラ・エクスプレス_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シンデレラ・エクスプレス",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/11_シンデレラ・エクスプレス_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シンデレラ",
+      "artist": "Mari Iijima",
+      "has_synced": false,
+      "path": "select/12_シンデレラ_Mari_Iijima.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "お願い! シンデレラ (CINDERELLA PROJECTver)",
+      "artist": "CINDERELLA PROJECT",
+      "has_synced": false,
+      "path": "select/13_お願い!_シンデレラ_(CINDERELLA_PROJECTver)_CINDERELLA_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "お願い!シンデレラ (M@STER VERSION)",
+      "artist": "CINDERELLA GIRLS!!",
+      "has_synced": true,
+      "path": "select/14_お願い!シンデレラ_(M@STER_VERSION)_CINDERELLA_GIRLS!!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シンデレラ",
+      "artist": "vivid undress",
+      "has_synced": true,
+      "path": "select/15_シンデレラ_vivid_undress.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "シンデレラ☆シンフォニー",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/16_シンデレラ☆シンフォニー_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "シンデレラ☆シンフォニー",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/17_シンデレラ☆シンフォニー_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "シンデレラ",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": false,
+      "path": "select/18_シンデレラ_Kazuyoshi_Saito.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンデレラ",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_シンデレラ_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シンデレラ",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_02_シンデレラ_サイダーガール.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シンデレラ",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_03_シンデレラ_サイダーガール.txt"
+    }
+  ]
+}
